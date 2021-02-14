@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="record">
+    <display-name lang="pt">record</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="sbt">
+    <display-name lang="pt">sbt</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="band">
+    <display-name lang="pt">band</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+</tv>
