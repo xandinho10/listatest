@@ -1,0 +1,51 @@
+#EXTM3U
+
+------------------------------------------------------canais abertos---------------------------------------------
+
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Record_logo1-1-.png/revision/latest/scale-to-width-down/340?cb=20150728123200" group-title="canais abertos", recordtv
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/SBT_Logo_2004.png/revision/latest/scale-to-width-down/340?cb=20190825030134" group-title="canais abertos", sbt 
+https://5a1c76baf08c0.streamlock.net/sbtinterior/4cd4a4222eabddfc/chunklist_w1773669088.m3u8
+
+#EXTINF:-1tvg-logo="https://www.todabahia.com.br/wp-content/uploads/2016/02/Band-Logo-1000x530.jpg" group-title="canais abertos", band
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TV_Di%C3%A1rio_logo.svg" group-title="canais abertos", tv diario
+https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZZp0kdpTOFKJyn6JxF2DFNY)/dm/3/x7txn7q/s/live-4.m3u8
+
+#EXTINF:-1tvg-logo="https://i.pinimg.com/originals/f0/f1/a3/f0f1a3f6816ca266c78812e9acfccec9.png" group-title="canais abertos", tv novo tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="canais abertos", rede tv
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+
+#EXTINF:-1tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2014/03/Globo.jpg" group-title="canais abertos", globo nordeste
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/bobonordeste.m3u8?mu3zAQc9HC3GbwJq=MKLI2xh-Wsw0I-iRTPt49w&3U1G7qaTxrPbalZnEx=1613313950
+
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png" group-title="canais abertos", tv brasil
+https://video-rvd-rj-1.rnp.br/live/ocp(t(FmOWBsrC4gw)r(fVR9ug)a(sd2CnQ)p(d(2xc)k(q8U)m(kr3VP0qxFHExj_gh6P2QSQ)n(a(XxUSCg)s(jAM)'a(Ir3uIw)s(uao)))s(s(2Co)b(bzz9nIWxPCd71y2AVXQhyPo8Av7LwjMxmIqW_-kdTbvD9DDLWR_0rWSp7zwcWRikeN-jViK_luy8Wi2CGQ)'s(3Is)b(68RcqUo4L_25wVv6PzOGVx5iz-f7SeQyZf0j7WxlRbm5adQ1BGQqZunnGpkOrX-Pe-mqIM21Ni_gg6zqitq8-oevWaQyTSUoSDuSjmNi)'s(ltM)b(Od9FN25P))m(0))/1_index.m3u8
+
+#EXTINF:-1tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2020/05/TV-Cultura-logo.jpg" group-title="canais abertos", tv cultura
+https://video-rvd-mg-gw-1.rnp.br/live/ocp(t(FmOWdVySbCk)r(fVR9ug)a(sd2CnQ)p(d(2xc)k(q8U)m(aMJh9UGkCxB94AEGGXFx1A)n(a(a8d7iA)s(c3U)'a(cY7-gw)s(hqQ)))s(s(x_8)b(-ecMFfYgHX9aM1LGkP8gx_RYu_-muEtJ9l1ucWOlE09oJRdTFRSx2vX-5OFSR1N9Vo4Xa3DKzDDH2rJQMw)'s(IPA)b(meM_rYwLs_W8fE3_3Byd7SqTHZpH4ZyogyiAPrSmvpOOJDfDj8BStGunSEUDGFt2a0ySkn-9uxAdYrmw4N4ka24MRLHYCciaCLa3fuqm)'s(HeE)b(y5U4kMmh))m(0))/1_index.m3u8
+
+---------------------------------------------------documentrios-------------------------------------------------
+
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/340?cb=20181016205525" group-title="documentarios", animal planet
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/animalplanet.m3u8?mu3zAQc9HC3GbwJq=tzsXfBnEr5bcURKQ6BTsvw&3U1G7qaTxrPbalZnEx=1613314100
+
+#EXTINF:-1tvg-logo="https://i.pinimg.com/originals/ae/a4/1d/aea41dd0f4a1c9357442f5e3629b183b.png" group-title="documentarios", discovery channel
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discovery.m3u8?mu3zAQc9HC3GbwJq=DTxghylUhCzoizHLqJ2JEA&3U1G7qaTxrPbalZnEx=1613314192
+
+#EXTINF:-1tvg-logo="https://i.pinimg.com/originals/8e/56/cd/8e56cdba9e19abf173ff387ae15ecce0.jpg" group-title="documentarios", history channel
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/history.m3u8?mu3zAQc9HC3GbwJq=7isL5jaA0skJMahokMI29w&3U1G7qaTxrPbalZnEx=1613314325
+
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="documentarios", history 2
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/history2.m3u8?mu3zAQc9HC3GbwJq=-Ec9AguvlxOeGUEAjo2kqw&3U1G7qaTxrPbalZnEx=1613314605
+
+#EXTINF:-1tvg-logo="https://img2.gratispng.com/20180724/fll/kisspng-logo-nat-geo-wild-national-geographic-television-c-5b57dd13174f56.5118415015324848830955.jpg" group-title="documentarios", nat geo wild
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/natgeowild.m3u8?mu3zAQc9HC3GbwJq=HjXgwlnvdma4e02wWGXwBw&3U1G7qaTxrPbalZnEx=1613314789
+
+#EXTINF:-1tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg?w=1000" group-title="documentarios", National Geographic Channel
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/natgeo.m3u8?mu3zAQc9HC3GbwJq=pbi7wN_JRJS9BSrczrhTyQ&3U1G7qaTxrPbalZnEx=1613314999
+
