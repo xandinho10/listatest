@@ -2,50 +2,44 @@
 
 ------------------------------------------------------canais abertos---------------------------------------------
 
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Record_logo1-1-.png/revision/latest/scale-to-width-down/340?cb=20150728123200" group-title="canais abertos", recordtv
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Record_logo1-1-.png/revision/latest/scale-to-width-down/340?cb=20150728123200" group-title="canais abertos", RECORD TV 
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/SBT_Logo_2004.png/revision/latest/scale-to-width-down/340?cb=20190825030134" group-title="canais abertos", sbt 
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/SBT_Logo_2004.png/revision/latest/scale-to-width-down/340?cb=20190825030134" group-title="canais abertos", SBT
 https://5a1c76baf08c0.streamlock.net/sbtinterior/4cd4a4222eabddfc/chunklist_w1773669088.m3u8
 
-#EXTINF:-1tvg-logo="https://www.todabahia.com.br/wp-content/uploads/2016/02/Band-Logo-1000x530.jpg" group-title="canais abertos", band
+#EXTINF:-1tvg-logo="https://www.todabahia.com.br/wp-content/uploads/2016/02/Band-Logo-1000x530.jpg" group-title="canais abertos", TV BAND
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TV_Di%C3%A1rio_logo.svg" group-title="canais abertos", tv diario
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TV_Di%C3%A1rio_logo.svg" group-title="canais abertos", TV DIÁRIO
 https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZZp0kdpTOFKJyn6JxF2DFNY)/dm/3/x7txn7q/s/live-4.m3u8
 
-#EXTINF:-1tvg-logo="https://i.pinimg.com/originals/f0/f1/a3/f0f1a3f6816ca266c78812e9acfccec9.png" group-title="canais abertos", tv novo tempo
-https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b3628000_slpor.m3u8
+#EXTINF:-1tvg-logo="https://i.pinimg.com/originals/f0/f1/a3/f0f1a3f6816ca266c78812e9acfccec9.png" group-title="canais abertos", TV NOVO TEMPO
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b1628000_slpor.m3u8
 
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="canais abertos", rede tv
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="canais abertos", REDE TV
 https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
 
-#EXTINF:-1tvg-logo="http://www.bastidoresdatv.com.br/wp-content/uploads/2014/03/Globo.jpg" group-title="canais abertos", globo nordeste
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/bobonordeste.m3u8?mu3zAQc9HC3GbwJq=MKLI2xh-Wsw0I-iRTPt49w&3U1G7qaTxrPbalZnEx=1613313950
+#EXTINF:-1tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAkFBMVEXMAAD////JAADikZHqs7Paa2vdfX3kmZnUS0v++/v02NjxzMzPKirprq7rt7f99fX45eXcdHT13d367u7WVlbNGRn129vvxcXgiIjy0NDXXV3egoLPJSXoqanuwsLjl5fUSUnmoaHQMTHNFBTROjrVVFTabGz56encd3fTQkLRNzfNDQ3hjIzOHx/PJyfYZGQgct0qAAAMsUlEQVR4nO2ca1fyvBKG2yDIQU4FRA5yUkFFX/7/v9tN2jQz0yRFCT7steb+otCQ5mqayUwybRSxWCwWi8VisVgsFovFYrFYLBaLxWKxWCwWi8VisVgsFovFYrFYLBaL9f8jQeUs8LP6zjvnL07wA8k6m8PatnvXA1p940LfX9NDK24NVk/HM5ogdutOWryf9BqRs7goTrhKPy2KU9cvJcJnER/rTj+26AGWGrfBkdmmglHUE1B8tXMUF6ZM+qFXfKiF60Uhxr2WjY4SdsixqbfWZUKK39mbLMy5ZYeGJxTRvbXzKKFolg+2Ptz3Xr1cfLT8B4Ti5a7cEhuhmFsPv7luvYa1+O6vCYXo+vkM4YfjuK3NacUne+nWHxOK9yq+glC47uSRtR0vruqScvFrEs6qAXNC4b6Xny0NEe6an8oz7LUIHQPLTvifp8R3ue43T/E/IxT3ZwFmhKQLBwP4qVNu88xTvDRnXIlQTK08yer5vvYFVJuo0qBIqyFdqgaYQOel2kHx/lAW/wLfUNt0HUIBnZNc08VDySvNvUNw1/Uz90tEo+KrkrEBM8Uhdza/DUabFL8KoXikeLOhx9cVa1PwU36WJR/Md1/4l/CePmYOL7pIxOG8BmGpB1cPhVu/3Iyh5scIOYtTEYn94TBM/4CplFRvhmE66MRiNJijYdEnFyQ8oVhhvrbyiYX4rE1HMZW0NMI4pKmx38m/r2hw9lBjhHFI63nnvaApco2LBycUNcwwVHwv2zKdhbCej7JEdo4p9YpOYGznJrfZsuu3pviVCfFklUjLIXZ20+omjIfp1wdTC2wNIGzqWekNuUUrVDw4IQqUupIv6sVOuQjlYALRxrCC8JAWH5rimysS4olQ1mKLc6oJ461wWQ8bYbwQcHwOYPHAhMjpXwivy+klJNZja9pjJZRj79UUb4DiYQlRjKB6kEbiZxMS6/FSQZiOBzDrtK5FiLxRZeMPsV9uQmI9pkWD7ISqJlOvCUkC9yFouxwLogrQR0isx1sFYeqtwYmqWNEISgjvKnlb2dzT0SABGizdhMR6HHSLHITxKT1kJt1ZUTwoISBZYMcru8xfrzbP20VIrIcObl2E0kMHQakOSUISQi9kgE8n1Vs6nG8nIbYecQWhbDPwWXVIEpQQhKIbVHWq5MEdW7gIifXIg1snofTQlwg4NOHO1J6OAvEMAW3LLdWE0nqA6HZXQbjCZ41CE0I70yTrYQ1fdW5CYj2y4NZNGH8goCwkCUlozpyOQuTLlFfAziTs4+FcryCUIQn4/WtgQjBi0qgc2lXHjsIZhDLWA9ZDuacewvhdwMMqJAlICGbntKon88m+qnseIbEeMrj1EUpvbWM+ytg0HCGY/R4FWqp5q/qlj7BsPXyEKiQxawytsIRteBpwy9LFr58REuuxEn7CeBJFRwwcjtDUNEe37Knyl17CAbYemwrCjkDfTUKOwxjWZG7ZVmVNfkJiPQbCT0hCko4IR2gGeGrxwC3bu5SQWI9GBaH00Pfm4zgcoVmskIbGXMXFpYTSH0LWw08oJ19g50bhCE3Lpmg23FT+sopQbj+BCrcmorISSg/903x6Nxf7MkLgP/aQKT1eTkish3Hj7IR3yKPqByOswTMAp7S6okrCeBzZd4nthMpDt3wdlBBMSSEIpfWwLUo6CElIEooQ3aVg2Ex+TQjcoidhXRJBhOB4HYUkgQhByzqIsMpncxOugLcmUPhpJdziBeRxcEKzFixjGHMF/ZGTj7ADrtOdsK0tI8IuKC5DEppidTGhyYhpoYhndQEhCFA+8UKXlRB76N+hCbHXhm+w3xKC9VZpPQCwlZB46M+0+KWetzHnJ2T5hpW/dBKSzevSAjMlBHYYhyRhCI0te0amZvDb6KmDBpO0HjSRhhDShRSak3Up4TOqHeS8VOWqegijianmvmw9KCFMj8MhSQhCeGNO0MRdFT/5CMnmNQC2EpL4nuQDBlyJWuOVqHJa09mENL4HwDZCsv1EkiYuXk2EIQtuy9Zbm5eQbF5j61EmhLk53xFxTy8mBJWfSOVeRD8h3rzG1sPShyi+J27rxXcpGCTSrVnDyn3zvp+QbF6jTWULIdxnpyHJ5TszwPedU9+3P/7xzkxOSDavofWwEYJWjEhIcvn+IRgyo7Ila49du2tmbNkIPdbDRkgy4uBlD7BDCszAWpSyo+JRtz6x5CeCSc5KSDevKwhJRtwOfrqYECLtolKGm1KfCh609yHevAZnsRJGzpDkckLUifI+tUWtXtkJyea1AXYQgr1oFJKEIITef+cXiA5CsnldmEs7YeQKSQIQYvup3Chnzt5PCMnmdXHdHIQwIw6GJCEII/Rsj9zaxtPibwlJcKvNpYuQZMS9Fb8MkbmHlhpUL37YM0t/REg2r7W5dBHCtT4QkgQhJPN85jyf+WSClxBvXosKQugVHwtvKwwhXFBPNZIp0CIqLSg4dHIRks3r3Fw6CUk+bQ4ciJBG1irrWojFWVYVxSTYlwUeUpFAvHESwu2njb7JAxHSGC4ezTOnP9p3275HEVOrsEF9hRMcgPugE4j7aD7HKTsglpMhiXQoE7T08PV7wrIr8zg3TxlHyweXlvKGBr7tPWmDOSI3r0+d3gTdjaRTwGiRIcn77C5C7k7lApkXsTQJHmrHs56eFiBUivfkGAluZYVwe4LsptN8WlUcuKyflxBaHdJkOy8/rE6FVkTpJQH9Ncoe9RY4NiIC587vIVB99eZ7BaLdePYfp72uWyu0RFFehYRJ5OtvITbwQpZSPmD/tp7Se2gMn3mrXoqvQjzj+dEKrUtt8Hq5jXIbfK7G+EJAOaL8drNalkof3KX7lj6xbD9pVS5Tn8XoeZDkDNkWrzxPTttMo2X7SasZADA9wdsPPFIqezKc84lox5Ksq/ZuiC5UDfpyvkyhSjt7jZZtUvf1cD4x/BgKUE5C698xul6KITa20iPn+a2PJAUZhICxUfHYjEUH6/sfsvp25RvVkxtoexnFxRNF+SzL+0H5PG61/E5xydxUeJjE+2gNgwNGymMadh/Pu18771X+nViCMLu/db+aJi/+ChhHtSu8e0efKFVz/1S79+hr/3me+yrm22k7aa/WzXPKC1F/nj4m7V7t9Xp85mRe/biiKxVnsVgsFovFYrFYLBbrF3JGuVXxr+vbl8183nwAh8wLKP5JnDtsgQSowWzb1C04wQP9wfSLrLh8qvwp8sZO8T7T6z3Jff7dURVUiR9plS3f2w2uomFMNHjNmlBey8Rb8fn+FXok5RUvo5+ynlP/C50TEWxB+1yVCPWTQpbVWvSCp3xhFL7o65P+QG0hKcLWPybsZ++jyXsg2yiyrUeDZ2qLZLb/iq/yTf67xun0NDU13QThVBuTbKlzXhDO9IFhRl+8D0rtI3ckktmFUnvgrSjbtM72zva3QmgyKVU3qFXtnFAfyEbTQv9MfXzaxnDbRWXRaGC19j1Sr9u6LcKegzA/UnSYyhw6qo0Y/YBflllapGg8zCfZ1HBjhGrXUuVNUELZX0VWjNrRToQyNz1EPSpNeDdBONUT8oduTZlQ2Q69zTLJPmRThi6TJWH2G2RWvwnC5H0hVVsZQ0PHYZZKk6e5ZG2N8mQvvYVdpDQl3eEEuDS3QAiVNMGMnxMeP7IENb0VqPIo5Af1j7kMYPNw1DvpwjdG2HmPXD6Nebe1sjDqvYvbvDNzoXSr/tD4NDdEGGuDWSbs61SsLCFP/at27s2eqdg9w+csuzdjS9vzutT+KUtBWRWzBVBiNnNVtmTuJchNcuTNqe1W/aP3WyHUL3ZMQx81lOR0oQj7j4U3BzJG9jERybNLwU9Zsszo5mb8PL1XEkOvTbW2eOdZOdXHEhHliZrfN0eYpfMPBLKleRp3UYYC5r56eimO5h0NWZrb2+0R1i2E+UN3+mk1lVU4mOVSlkVOoafeYws+OLK6TcJs1p4SwjzZqZ51lcItHgJTiU0r/YN4WdzLKtgvj8N/E+Pr6Ek0M7dE5koiwsw9y9w5RWsC32yaF/qf1jCraZfom4H2YTQxqn49TiDCuKWkh9XBEj31dVdlsGAKfNbXRAfF7elqlgfT0igTQqT3PyNEGqkrSzzvLAN4rlnBxVe+qXLhSm+d2VpmfKSLEtbPVDlbOB8oe93wTNkUkTZ0jr/Xyb7SiIoxWolq7clK1Paf9OEpaQNNn+s6KJinBx7BQxXfsmDq2GzTvwl6C/uX/CZLcxbzuzxJbtDb5789qjPIDwt0Llld5fvwQsi/IkwLlr8m35hCluN0kfmvzSqLxWKxWCwWi8VisVgsFovFYrFYLBaLxWKxWCwWi8VisVgsFtH/AG8TubSF9m3NAAAAAElFTkSuQmCC" group-title="canais abertos", CNN Brasil
+https://streaming.cnnbrasil.com.br/cnndigital_main_Output1.m3u8
 
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png" group-title="canais abertos", tv brasil
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png" group-title="canais abertos", TV BRASIL
 https://video-rvd-rj-1.rnp.br/live/ocp(t(FmOWBsrC4gw)r(fVR9ug)a(sd2CnQ)p(d(2xc)k(q8U)m(kr3VP0qxFHExj_gh6P2QSQ)n(a(XxUSCg)s(jAM)'a(Ir3uIw)s(uao)))s(s(2Co)b(bzz9nIWxPCd71y2AVXQhyPo8Av7LwjMxmIqW_-kdTbvD9DDLWR_0rWSp7zwcWRikeN-jViK_luy8Wi2CGQ)'s(3Is)b(68RcqUo4L_25wVv6PzOGVx5iz-f7SeQyZf0j7WxlRbm5adQ1BGQqZunnGpkOrX-Pe-mqIM21Ni_gg6zqitq8-oevWaQyTSUoSDuSjmNi)'s(ltM)b(Od9FN25P))m(0))/1_index.m3u8
 
 #EXTINF:-1tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2020/05/TV-Cultura-logo.jpg" group-title="canais abertos", tv cultura
 https://video-rvd-mg-gw-1.rnp.br/live/ocp(t(FmOWdVySbCk)r(fVR9ug)a(sd2CnQ)p(d(2xc)k(q8U)m(aMJh9UGkCxB94AEGGXFx1A)n(a(a8d7iA)s(c3U)'a(cY7-gw)s(hqQ)))s(s(x_8)b(-ecMFfYgHX9aM1LGkP8gx_RYu_-muEtJ9l1ucWOlE09oJRdTFRSx2vX-5OFSR1N9Vo4Xa3DKzDDH2rJQMw)'s(IPA)b(meM_rYwLs_W8fE3_3Byd7SqTHZpH4ZyogyiAPrSmvpOOJDfDj8BStGunSEUDGFt2a0ySkn-9uxAdYrmw4N4ka24MRLHYCciaCLa3fuqm)'s(HeE)b(y5U4kMmh))m(0))/1_index.m3u8
 
----------------------------------------------------documentrios-------------------------------------------------
+#EXTINF:-1tvg-logo="https://1.bp.blogspot.com/-BysZBlK2G5o/XtbFWt8jSbI/AAAAAAAAC5M/_A_0m2y1Oo8WkJT8J5DdveOjLPRoBM_SgCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2020-06-02-18-28-37.png" group-title="canais abertos", TV MANCHETE WEB
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w2000831668.m3u8
 
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/340?cb=20181016205525" group-title="documentarios", animal planet
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/animalplanet.m3u8?mu3zAQc9HC3GbwJq=tzsXfBnEr5bcURKQ6BTsvw&3U1G7qaTxrPbalZnEx=1613314100
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-y_6_CA_m958/X0RDkZGPCMI/AAAAAAAADLc/HbiMvmLEBIAteLT85H8PLaGcjvYyVQ5XwCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-08-24-19-42-21.png" group-title="canais abertos", TV MEGA CINE
+https://stmv1.srvif.com/reconsatcine/reconsatcine/chunklist_w2082419728.m3u8
 
-#EXTINF:-1tvg-logo="https://i.pinimg.com/originals/ae/a4/1d/aea41dd0f4a1c9357442f5e3629b183b.png" group-title="documentarios", discovery channel
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/discovery.m3u8?mu3zAQc9HC3GbwJq=DTxghylUhCzoizHLqJ2JEA&3U1G7qaTxrPbalZnEx=1613314192
+#EXTINF:-1tvg-logo="https://lh3.googleusercontent.com/proxy/rZNu9c04yZ8RpRZpxYC6BNhb7lUA7DuOqmDr6UtaJeNH7W7za_zYDgRQwJCg0myo_0TiCX_G3YoM0OiVh_F6JhV25eU9PmYRALaDimoeWCpzIdA48ZYCcBv0MwAuAwm8" group-title="canais abertos", BONS TEMPOS TV
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w264523281.m3u8
 
-#EXTINF:-1tvg-logo="https://i.pinimg.com/originals/8e/56/cd/8e56cdba9e19abf173ff387ae15ecce0.jpg" group-title="documentarios", history channel
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/history.m3u8?mu3zAQc9HC3GbwJq=7isL5jaA0skJMahokMI29w&3U1G7qaTxrPbalZnEx=1613314325
+#EXTINF:-1tvg-logo="https://1.bp.blogspot.com/-yTu_7AN5aAo/X9TouEgdJhI/AAAAAAAAD9c/2A1p65GQS6QytmpjaE8_rWrTO8nuYi8EwCLcBGAsYHQ/s0/CANAL%2B29.png" group-title="canais abertos", CANAL 29
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist.m3u8
 
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png" group-title="documentarios", history 2
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/history2.m3u8?mu3zAQc9HC3GbwJq=-Ec9AguvlxOeGUEAjo2kqw&3U1G7qaTxrPbalZnEx=1613314605
 
-#EXTINF:-1tvg-logo="https://img2.gratispng.com/20180724/fll/kisspng-logo-nat-geo-wild-national-geographic-television-c-5b57dd13174f56.5118415015324848830955.jpg" group-title="documentarios", nat geo wild
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/natgeowild.m3u8?mu3zAQc9HC3GbwJq=HjXgwlnvdma4e02wWGXwBw&3U1G7qaTxrPbalZnEx=1613314789
-
-#EXTINF:-1tvg-logo="https://variety.com/wp-content/uploads/2014/05/national-geographic-channel-logo.jpg?w=1000" group-title="documentarios", National Geographic Channel
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/natgeo.m3u8?mu3zAQc9HC3GbwJq=pbi7wN_JRJS9BSrczrhTyQ&3U1G7qaTxrPbalZnEx=1613314999
 
