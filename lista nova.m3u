@@ -11,7 +11,7 @@ https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fu
 #EXTINF:-1tvg-logo="https://www.todabahia.com.br/wp-content/uploads/2016/02/Band-Logo-1000x530.jpg" group-title="canais abertos", TV BAND
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
-#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/TV_Di%C3%A1rio_logo.svg" group-title="canais abertos", TV DIÁRIO
+#EXTINF:-1tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-diario_m.png" group-title="canais abertos", TV DIÁRIO
 https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZZ2GJ0Qkbei-dCzLVbPuB9E)/dm/3/x7txn7q/s/live-2.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
 
 #EXTINF:-1tvg-logo="https://i.pinimg.com/originals/f0/f1/a3/f0f1a3f6816ca266c78812e9acfccec9.png" group-title="canais abertos", TV NOVO TEMPO
@@ -35,7 +35,7 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w2000831668.m3u8
 #EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-y_6_CA_m958/X0RDkZGPCMI/AAAAAAAADLc/HbiMvmLEBIAteLT85H8PLaGcjvYyVQ5XwCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-08-24-19-42-21.png" group-title="canais abertos", TV MEGA CINE
 https://stmv1.srvif.com/reconsatcine/reconsatcine/chunklist_w2082419728.m3u8
 
-#EXTINF:-1tvg-logo="https://lh3.googleusercontent.com/proxy/rZNu9c04yZ8RpRZpxYC6BNhb7lUA7DuOqmDr6UtaJeNH7W7za_zYDgRQwJCg0myo_0TiCX_G3YoM0OiVh_F6JhV25eU9PmYRALaDimoeWCpzIdA48ZYCcBv0MwAuAwm8" group-title="canais abertos", BONS TEMPOS TV
+#EXTINF:-1tvg-logo="https://lh3.googleusercontent.com/proxy/NL_XR6sA5lGUhz2aD4RYN-tW4bOtViw_AVKgFaY06OJVY8NIFTS885B7bGwsVZnboG6LcrsPH4ShMUuAipPLYBCmiIx3-7gn1faRkS3XNavp2TeyvhD37PtS6MQkAzIX" group-title="canais abertos", BONS TEMPOS TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w264523281.m3u8
 
 #EXTINF:-1tvg-logo="https://1.bp.blogspot.com/-yTu_7AN5aAo/X9TouEgdJhI/AAAAAAAAD9c/2A1p65GQS6QytmpjaE8_rWrTO8nuYi8EwCLcBGAsYHQ/s0/CANAL%2B29.png" group-title="canais abertos", CANAL 29
