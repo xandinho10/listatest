@@ -5,14 +5,14 @@
 #EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Record_logo1-1-.png/revision/latest/scale-to-width-down/340?cb=20150728123200" group-title="canais abertos", RECORD TV 
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/SBT_Logo_2004.png/revision/latest/scale-to-width-down/340?cb=20190825030134" group-title="canais abertos", SBT
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/sbt.m3u8?mu3zAQc9HC3GbwJq=q680qk73Ja5HvulvYyvWsw&3U1G7qaTxrPbalZnEx=1615361570
+#EXTINF:-1tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png" group-title="canais abertos", Rede Brasil
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1381140372.m3u8
 
 #EXTINF:-1tvg-logo="https://www.todabahia.com.br/wp-content/uploads/2016/02/Band-Logo-1000x530.jpg" group-title="canais abertos", TV BAND
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
 #EXTINF:-1tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-diario_m.png" group-title="canais abertos", TV DIÁRIO
-https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZZ2GJ0Qkbei-dCzLVbPuB9E)/dm/3/x7txn7q/s/live-2.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZRknYZ-xbMb67XGgJN4-_50)/dm/3/x7txn7q/s/live-2.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
 
 #EXTINF:-1tvg-logo="https://i.pinimg.com/originals/f0/f1/a3/f0f1a3f6816ca266c78812e9acfccec9.png" group-title="canais abertos", TV NOVO TEMPO
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b1628000_slpor.m3u8
@@ -52,4 +52,9 @@ https://s3.us-west-1.wasabisys.com/guerraempreendimento.xyz/-f-i-l-m-e-s-/dub/39
 
 #EXTINF:-1tvg-logo="https://media.fstatic.com/Rvtt4X8pTlOYiYHYKn9kAGNQjL0=/290x478/smart/media/movies/covers/2020/04/p15844664_v_v8_af.jpg" group-title="filmes", zona de quarentena
 https://download2337.mediafire.com/o4jyhjnvh1qg/hz06t1oz679lfbu/133a3bbd2a60fb927e0315d421a593d6.mp4
+
+------------------------------------------------------radio-----------------------------------
+
+#EXTINF:-1tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/7189bf051102b48385b00f88c146d261.jpg" group-title="radio", Rádio Sertaneja Caipira Raiz
+http://cast.midiaip.com.br:8330//;stream.mp3
 
