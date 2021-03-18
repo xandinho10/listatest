@@ -44,6 +44,14 @@ https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist.m3u8
 #EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/SBT_Logo_2004.png/revision/latest/scale-to-width-down/340?cb=20190825030134" group-title="canais abertos", SBT HD
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3u8
 
+#EXTINF:-1tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="canais abertos", Anime Tv
+https://stmv1.srvif.com/animetv/animetv/chunklist_w767024052.m3u8
+
+#EXTINF:-1tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-camara_m.png" group-title="canais abertos", TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1tvg-logo="https://lh3.googleusercontent.com/Whuos2pOWWUdLocxv3cvjr8p_AMCxOaYcOMmsvCqQsSKkgFhCeLZp2bCAugcMP2QsIcSUw=s152" group-title="canais abertos", Adorar TV
+https://5e36c064a2f6a.streamlock.net:1936/8122/8122/chunklist_w1363320253.m3u8
 
 ------------------------------------------------filmes--------------------------------------------
 
