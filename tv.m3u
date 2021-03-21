@@ -1,0 +1,323 @@
+#EXTM3U
+
+------------------------------------------------------canais abertos---------------------------------------------
+
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/Record_logo1-1-.png/revision/latest/scale-to-width-down/340?cb=20150728123200" group-title="canais abertos", RECORD TV 
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_480_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/RBTV-logo-rede-brasil.png" group-title="canais abertos", Rede Brasil
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1381140372.m3u8
+
+#EXTINF:-1tvg-logo="https://www.todabahia.com.br/wp-content/uploads/2016/02/Band-Logo-1000x530.jpg" group-title="canais abertos", TV BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:-1tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-diario_m.png" group-title="canais abertos", TV DIÁRIO
+https://stream-01.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZRknYZ-xbMb67XGgJN4-_50)/dm/3/x7txn7q/s/live-2.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+
+#EXTINF:-1tvg-logo="https://i.pinimg.com/originals/f0/f1/a3/f0f1a3f6816ca266c78812e9acfccec9.png" group-title="canais abertos", TV NOVO TEMPO
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/chunklist_b1628000_slpor.m3u8
+
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/89/Logotipo_da_RedeTV%21.png" group-title="canais abertos", REDE TV
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+
+#EXTINF:-1tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo.png" group-title="canais abertos", CNN Brasil
+https://streaming.cnnbrasil.com.br/cnndigital_main_Output1.m3u8
+
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1c/Logotipo_da_TV_Brasil.png" group-title="canais abertos", TV BRASIL
+https://video-rvd-rj-1.rnp.br/live/ocp(t(FmOWBsrC4gw)r(fVR9ug)a(sd2CnQ)p(d(2xc)k(q8U)m(kr3VP0qxFHExj_gh6P2QSQ)n(a(XxUSCg)s(jAM)'a(Ir3uIw)s(uao)))s(s(2Co)b(bzz9nIWxPCd71y2AVXQhyPo8Av7LwjMxmIqW_-kdTbvD9DDLWR_0rWSp7zwcWRikeN-jViK_luy8Wi2CGQ)'s(3Is)b(68RcqUo4L_25wVv6PzOGVx5iz-f7SeQyZf0j7WxlRbm5adQ1BGQqZunnGpkOrX-Pe-mqIM21Ni_gg6zqitq8-oevWaQyTSUoSDuSjmNi)'s(ltM)b(Od9FN25P))m(0))/1_index.m3u8
+
+#EXTINF:-1tvg-logo="https://observatoriodatv.uol.com.br/wp-content/uploads/2020/05/TV-Cultura-logo.jpg" group-title="canais abertos", tv cultura
+https://video-rvd-mg-gw-1.rnp.br/live/ocp(t(FmOWdVySbCk)r(fVR9ug)a(sd2CnQ)p(d(2xc)k(q8U)m(aMJh9UGkCxB94AEGGXFx1A)n(a(a8d7iA)s(c3U)'a(cY7-gw)s(hqQ)))s(s(x_8)b(-ecMFfYgHX9aM1LGkP8gx_RYu_-muEtJ9l1ucWOlE09oJRdTFRSx2vX-5OFSR1N9Vo4Xa3DKzDDH2rJQMw)'s(IPA)b(meM_rYwLs_W8fE3_3Byd7SqTHZpH4ZyogyiAPrSmvpOOJDfDj8BStGunSEUDGFt2a0ySkn-9uxAdYrmw4N4ka24MRLHYCciaCLa3fuqm)'s(HeE)b(y5U4kMmh))m(0))/1_index.m3u8
+
+#EXTINF:-1tvg-logo="https://1.bp.blogspot.com/-BysZBlK2G5o/XtbFWt8jSbI/AAAAAAAAC5M/_A_0m2y1Oo8WkJT8J5DdveOjLPRoBM_SgCPcBGAYYCw/w1200-h630-p-k-no-nu/Screenshot_2020-06-02-18-28-37.png" group-title="canais abertos", TV MANCHETE WEB
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/chunklist_w2000831668.m3u8
+
+#EXTINF:-1tvg-logo="https://2.bp.blogspot.com/-y_6_CA_m958/X0RDkZGPCMI/AAAAAAAADLc/HbiMvmLEBIAteLT85H8PLaGcjvYyVQ5XwCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-08-24-19-42-21.png" group-title="canais abertos", TV MEGA CINE
+https://stmv1.srvif.com/reconsatcine/reconsatcine/chunklist_w2082419728.m3u8
+
+#EXTINF:-1tvg-logo="https://lh3.googleusercontent.com/proxy/NL_XR6sA5lGUhz2aD4RYN-tW4bOtViw_AVKgFaY06OJVY8NIFTS885B7bGwsVZnboG6LcrsPH4ShMUuAipPLYBCmiIx3-7gn1faRkS3XNavp2TeyvhD37PtS6MQkAzIX" group-title="canais abertos", BONS TEMPOS TV
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w264523281.m3u8
+
+#EXTINF:-1tvg-logo="https://1.bp.blogspot.com/-yTu_7AN5aAo/X9TouEgdJhI/AAAAAAAAD9c/2A1p65GQS6QytmpjaE8_rWrTO8nuYi8EwCLcBGAsYHQ/s0/CANAL%2B29.png" group-title="canais abertos", CANAL 29
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist.m3u8
+
+#EXTINF:-1tvg-logo="https://1.bp.blogspot.com/-FUSTK4Z1fQs/X8zzV_cWjHI/AAAAAAAAD6E/eNDHUFUuADsTAkTJTcT_ulbcI9-y6IisACLcBGAsYHQ/s0/ANIME%2BTV.png" group-title="canais abertos", Anime Tv
+https://stmv1.srvif.com/animetv/animetv/chunklist_w767024052.m3u8
+
+#EXTINF:-1tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-camara_m.png" group-title="canais abertos", TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+#EXTINF:-1tvg-logo="https://lh3.googleusercontent.com/Whuos2pOWWUdLocxv3cvjr8p_AMCxOaYcOMmsvCqQsSKkgFhCeLZp2bCAugcMP2QsIcSUw=s152" group-title="canais abertos", Adorar TV
+https://5e36c064a2f6a.streamlock.net:1936/8122/8122/chunklist_w1363320253.m3u8
+
+------------------------------------------------filmes--------------------------------------------
+
+#EXTINF:-1tvg-logo="https://media.fstatic.com/2sOMUrlXJmZ1ytQIMp4vYImmSow=/290x478/smart/media/movies/covers/2014/11/dragon-ball-z-filme-9-a-batalha-nos-dois-mundos_t15712_2.jpg" group-title="filmes", Dragon Ball Z: A Batalha Nos Dois Mundos
+https://s3.us-west-1.wasabisys.com/guerraempreendimento.xyz/-f-i-l-m-e-s-/dub/39105.mp4
+
+#EXTINF:-1tvg-logo="https://media.fstatic.com/Rvtt4X8pTlOYiYHYKn9kAGNQjL0=/290x478/smart/media/movies/covers/2020/04/p15844664_v_v8_af.jpg" group-title="filmes", zona de quarentena
+https://download2337.mediafire.com/o4jyhjnvh1qg/hz06t1oz679lfbu/133a3bbd2a60fb927e0315d421a593d6.mp4
+
+------------------------------------------------------radio-----------------------------------
+
+#EXTINF:-1tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/7189bf051102b48385b00f88c146d261.jpg" group-title="radio", Rádio Sertaneja Caipira Raiz
+http://cast.midiaip.com.br:8330//;stream.mp3
+
+#EXTINF:-1tvg-logo="https://img.radios.com.br/radio/xl/radio158895_1599855014.jpg" group-title="radio", Rádio Novo Tempo (Rede)
+https://stream.live.novotempo.com/radio/smil:radionovotempo.smil/chunklist_b96000_slpor.m3u8
+
+#EXTINF:-1tvg-logo="https://www.cxradio.com.br/img/Radio/Logo/e02c0f054627b1888a9f8a7d65c272ff.jpg" group-title="radio", Rádio Semeando o Amor de Deus
+https://ssl.srvstm.com:8088/stream/;stream.mp3
+
+---------------------------------------------desenhos---------------------------------------
+
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d3/CnDRR_title.png/revision/latest?cb=20200413003010&path-prefix=pt-br" group-title="desenhos", Tico e Teco e os Defensores da Lei 
+https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/TCOETECOEOSDFNSRSDLEIT01EP01.mp4
+
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d3/CnDRR_title.png/revision/latest?cb=20200413003010&path-prefix=pt-br" group-title="desenhos", Tico e Teco e os Defensores da Lei
+https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/TCOETECOEOSDFNSRSDLEIT01EP02.mp4
+
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d3/CnDRR_title.png/revision/latest?cb=20200413003010&path-prefix=pt-br" group-title="desenhos", Tico e Teco e os Defensores da Lei
+https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/TCOETECOEOSDFNSRSDLEIT01EP03.mp4
+
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d3/CnDRR_title.png/revision/latest?cb=20200413003010&path-prefix=pt-br" group-title="desenhos", Tico e Teco e os Defensores da Lei
+https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/TCOETECOEOSDFNSRSDLEIT01EP04.mp4
+
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d3/CnDRR_title.png/revision/latest?cb=20200413003010&path-prefix=pt-br" group-title="desenhos", Tico e Teco e os Defensores da Lei
+https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/TCOETECOEOSDFNSRSDLEIT01EP05.mp4
+
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d3/CnDRR_title.png/revision/latest?cb=20200413003010&path-prefix=pt-br" group-title="desenhos", Tico e Teco e os Defensores da Lei
+https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/TCOETECOEOSDFNSRSDLEIT01EP06.mp4
+
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d3/CnDRR_title.png/revision/latest?cb=20200413003010&path-prefix=pt-br" group-title="desenhos", Tico e Teco e os Defensores da Lei
+https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/TCOETECOEOSDFNSRSDLEIT01EP07.mp4
+
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d3/CnDRR_title.png/revision/latest?cb=20200413003010&path-prefix=pt-br" group-title="desenhos", Tico e Teco e os Defensores da Lei
+https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/TCOETECOEOSDFNSRSDLEIT01EP08.mp4
+
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d3/CnDRR_title.png/revision/latest?cb=20200413003010&path-prefix=pt-br" group-title="desenhos", Tico e Teco e os Defensores da Lei
+https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/TCOETECOEOSDFNSRSDLEIT01EP09.mp4
+
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d3/CnDRR_title.png/revision/latest?cb=20200413003010&path-prefix=pt-br" group-title="desenhos", Tico e Teco e os Defensores da Lei
+https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/TCOETECOEOSDFNSRSDLEIT01EP10.mp4
+
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d3/CnDRR_title.png/revision/latest?cb=20200413003010&path-prefix=pt-br" group-title="desenhos", Tico e Teco e os Defensores da Lei
+https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/TCOETECOEOSDFNSRSDLEIT01EP11.mp4
+
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d3/CnDRR_title.png/revision/latest?cb=20200413003010&path-prefix=pt-br" group-title="desenhos", Tico e Teco e os Defensores da Lei
+https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/TCOETECOEOSDFNSRSDLEIT01EP12.mp4
+
+#EXTINF:-1tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d3/CnDRR_title.png/revision/latest?cb=20200413003010&path-prefix=pt-br" group-title="desenhos", Tico e Teco e os Defensores da Lei
+https://d1ahgc16j7taah.cloudfront.net/RCServer05/ondemand/TCOETECOEOSDFNSRSDLEIT01EP13.mp4
+
+#EXTINF:-1tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61QjcKQ%2Bp-L._AC_SX569_.jpg" group-title="desenhos", Avatar: A Lenda de Aang Livro I - Água Episódio 01 - O Garoto no Iceberg
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/AVTALDAT01EP01.mp4
+
+#EXTINF:-1tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61QjcKQ%2Bp-L._AC_SX569_.jpg" group-title="desenhos", Episódio 02 - A Volta do Avatar 
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/AVTALDAT01EP02.mp4
+
+#EXTINF:-1tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61QjcKQ%2Bp-L._AC_SX569_.jpg" group-title="desenhos", Episódio 03 - O Templo de Ar do Sul 
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/AVTALDAT01EP03.mp4
+
+#EXTINF:-1tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61QjcKQ%2Bp-L._AC_SX569_.jpg" group-title="desenhos", Episódio 04 - As Guerreiras de Kyoshi 
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/AVTALDAT01EP04.mp4
+
+#EXTINF:-1tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61QjcKQ%2Bp-L._AC_SX569_.jpg" group-title="desenhos", Episódio 05 - O Rei de Omashu
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/AVTALDAT01EP05.mp4
+ 
+#EXTINF:-1tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61QjcKQ%2Bp-L._AC_SX569_.jpg" group-title="desenhos", Episódio 06 Aprisionado 
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/AVTALDAT01EP06.mp4
+
+#EXTINF:-1tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61QjcKQ%2Bp-L._AC_SX569_.jpg" group-title="desenhos", Episódio 07 Solstício de Inverno Parte 1 (O Mundo Espiritual)
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/AVTALDAT01EP07.mp4
+
+#EXTINF:-1tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61QjcKQ%2Bp-L._AC_SX569_.jpg" group-title="desenhos", Episódio 08 Solstício de Inverno Parte 2 (O Avatar Roku) 
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/AVTALDAT01EP08.mp4
+
+#EXTINF:-1tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61QjcKQ%2Bp-L._AC_SX569_.jpg" group-title="desenhos", Episódio 09 O Pergaminho da Dobra D'água  
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/AVTALDAT01EP09.mp4
+
+#EXTINF:-1tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61QjcKQ%2Bp-L._AC_SX569_.jpg" group-title="desenhos", Episódio 10 Jato 
+https://d2vckf0gxx2595.cloudfront.net/RCServer01/videos/AVTALDAT01EP10.mp4
+
+#EXTINF:-1 tvg-logo="http://a5.vc/JHX" group-title="Canais | Variedades",A&E 
+http://srvx.io:80/live/7885037935/fireurl.co/71762.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Xun" group-title="Canais | Filmes e Séries",AMC 
+http://srvx.io:80/live/7885037935/fireurl.co/71768.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Sx8" group-title="Canais | Documentários",Animal Planet 
+http://srvx.io:80/live/7885037935/fireurl.co/71772.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/aDZ" group-title="Canais | Documentários",Arte 1 
+http://srvx.io:80/live/7885037935/fireurl.co/71777.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/dbM" group-title="Canais | Filmes e Séries",AXN 
+http://srvx.io:80/live/7885037935/fireurl.co/71781.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/j8Y" group-title="Canais | Esportes",Band Sports 
+http://srvx.io:80/live/7885037935/fireurl.co/71801.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/TDh" group-title="Canais | Variedades",BIS 
+http://srvx.io:80/live/7885037935/fireurl.co/71806.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/DtS" group-title="Canais | Infantis",Boomerang 
+http://srvx.io:80/live/7885037935/fireurl.co/71812.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/tSP" group-title="Canais | Filmes e Séries",Canal Sony 
+http://srvx.io:80/live/7885037935/fireurl.co/71824.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Ts9" group-title="Canais | Infantis",Cartoon Network 
+http://srvx.io:80/live/7885037935/fireurl.co/71828.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/j8T" group-title="Canais | Filmes e Séries",Cinemax 
+http://srvx.io:80/live/7885037935/fireurl.co/71833.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 1 
+http://srvx.io:80/live/7885037935/fireurl.co/72994.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 2 
+http://srvx.io:80/live/7885037935/fireurl.co/72995.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 3 
+http://srvx.io:80/live/7885037935/fireurl.co/72996.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 4 
+http://srvx.io:80/live/7885037935/fireurl.co/72997.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 5 
+http://srvx.io:80/live/7885037935/fireurl.co/72998.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 6 
+http://srvx.io:80/live/7885037935/fireurl.co/72999.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 7 
+http://srvx.io:80/live/7885037935/fireurl.co/73000.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 8 
+http://srvx.io:80/live/7885037935/fireurl.co/73001.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 9 
+http://srvx.io:80/live/7885037935/fireurl.co/73002.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Filmes e Séries",Cine SKY 10 
+http://srvx.io:80/live/7885037935/fireurl.co/73003.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/kBr" group-title="Canais | Notícias",CNN Brasil 
+http://srvx.io:80/live/7885037935/fireurl.co/71837.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Flm" group-title="Canais | Esportes",Combate 
+http://srvx.io:80/live/7885037935/fireurl.co/71842.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/mT5" group-title="Canais | Variedades",Comedy Central 
+http://srvx.io:80/live/7885037935/fireurl.co/71847.ts
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 1 
+http://srvx.io:80/live/7885037935/fireurl.co/72979.ts
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 2 
+http://srvx.io:80/live/7885037935/fireurl.co/72983.ts
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 3 
+http://srvx.io:80/live/7885037935/fireurl.co/72987.ts
+#EXTINF:-1 tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/b534Jz.png" group-title="Canais | PPV",Conmebol TV 4 
+http://srvx.io:80/live/7885037935/fireurl.co/72991.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/tvcultura.png" group-title="Canais | Abertos",Cultura 
+http://srvx.io:80/live/7885037935/fireurl.co/71853.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/CyU" group-title="Canais | Documentários",Curta 
+http://srvx.io:80/live/7885037935/fireurl.co/71855.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 1 
+http://srvx.io:80/live/7885037935/fireurl.co/71860.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 2 
+http://srvx.io:80/live/7885037935/fireurl.co/72630.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 3 
+http://srvx.io:80/live/7885037935/fireurl.co/71861.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/6qb" group-title="Canais | PPV",DAZN 4 
+http://srvx.io:80/live/7885037935/fireurl.co/71859.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Oj9" group-title="Canais | Documentários",Discovery Channel 
+http://srvx.io:80/live/7885037935/fireurl.co/71862.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/XcV" group-title="Canais | Variedades",Discovery H&H 
+http://srvx.io:80/live/7885037935/fireurl.co/71867.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/KvX" group-title="Canais | Infantis",Discovery Kids 
+http://srvx.io:80/live/7885037935/fireurl.co/71871.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/0gi" group-title="Canais | Documentários",Discovery Science 
+http://srvx.io:80/live/7885037935/fireurl.co/71875.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Nib" group-title="Canais | Documentários",Discovery Theater 
+http://srvx.io:80/live/7885037935/fireurl.co/71879.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uCQ" group-title="Canais | Variedades",Discovery Turbo 
+http://srvx.io:80/live/7885037935/fireurl.co/71883.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/wgC" group-title="Canais | Documentários",Discovery World 
+http://srvx.io:80/live/7885037935/fireurl.co/71887.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/MJq" group-title="Canais | Infantis",Disney Channel 
+http://srvx.io:80/live/7885037935/fireurl.co/71891.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/kzm" group-title="Canais | Infantis",Disney Junior 
+http://srvx.io:80/live/7885037935/fireurl.co/71895.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | Variedades",DogTV 
+http://srvx.io:80/live/7885037935/fireurl.co/76922.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/DKx" group-title="Canais | Variedades",E! 
+http://srvx.io:80/live/7885037935/fireurl.co/71900.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",EI Plus 1 
+http://srvx.io:80/live/7885037935/fireurl.co/71904.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",EI Plus 2 
+http://srvx.io:80/live/7885037935/fireurl.co/71905.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",EI Plus 3 
+http://srvx.io:80/live/7885037935/fireurl.co/71906.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",Ei Plus 4 
+http://srvx.io:80/live/7885037935/fireurl.co/76671.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",Ei Plus 5 
+http://srvx.io:80/live/7885037935/fireurl.co/76672.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/uqI" group-title="Canais | PPV",Ei Plus 6 
+http://srvx.io:80/live/7885037935/fireurl.co/76673.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 1 
+http://srvx.io:80/live/7885037935/fireurl.co/73254.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 2 
+http://srvx.io:80/live/7885037935/fireurl.co/73255.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 3 
+http://srvx.io:80/live/7885037935/fireurl.co/73256.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 4 
+http://srvx.io:80/live/7885037935/fireurl.co/73257.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 5 
+http://srvx.io:80/live/7885037935/fireurl.co/73258.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Eleven Sports 6 
+http://srvx.io:80/live/7885037935/fireurl.co/73259.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/KCw" group-title="Canais | ESPN",ESPN 2 
+http://srvx.io:80/live/7885037935/fireurl.co/71907.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN",ESPN Brasil 
+http://srvx.io:80/live/7885037935/fireurl.co/71911.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/YpF" group-title="Canais | ESPN",ESPN Extra 
+http://srvx.io:80/live/7885037935/fireurl.co/71915.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/8lJ" group-title="Canais | ESPN",ESPN 
+http://srvx.io:80/live/7885037935/fireurl.co/71919.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Facebook Watch 
+http://srvx.io:80/live/7885037935/fireurl.co/73005.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Facebook Watch 2 
+http://srvx.io:80/live/7885037935/fireurl.co/79316.ts
+#EXTINF:-1 tvg-logo="" group-title="Canais | PPV",Facebook Watch 3 
+http://srvx.io:80/live/7885037935/fireurl.co/79317.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1jtRh4S.png" group-title="Canais | Variedades",FashionTV 
+http://srvx.io:80/live/7885037935/fireurl.co/71924.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/cii" group-title="Canais | SporTV",SporTV 
+http://srvx.io:80/live/7885037935/fireurl.co/72332.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/YO7" group-title="Canais | SporTV",SporTV 2 
+http://fsrv.me:80/live/7885037935/fireurl.co/72323.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ybu" group-title="Canais | SporTV",SporTV 3 
+http://srvx.io:80/live/7885037935/fireurl.co/72327.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/StA" group-title="Canais | Variedades",Fish TV 
+http://srvx.io:80/live/7885037935/fireurl.co/71928.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ZHe" group-title="Canais | Variedades",Food Network 
+http://srvx.io:80/live/7885037935/fireurl.co/71932.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Ck2" group-title="Canais | Filmes e Séries",Fox 
+http://srvx.io:80/live/7885037935/fireurl.co/71936.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/OVC" group-title="Canais | Variedades",Fox Life 
+http://srvx.io:80/live/7885037935/fireurl.co/71939.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3gn" group-title="Canais | Filmes e Séries",Fox Premium 1 
+http://srvx.io:80/live/7885037935/fireurl.co/71943.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/0ud" group-title="Canais | Filmes e Séries",Fox Premium 2 
+http://srvx.io:80/live/7885037935/fireurl.co/71947.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/DXo" group-title="Canais | Esportes",Fox Sports 2 
+http://srvx.io:80/live/7885037935/fireurl.co/71952.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/55i" group-title="Canais | Esportes",Fox Sports 
+http://srvx.io:80/live/7885037935/fireurl.co/71957.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/JsW" group-title="Canais | Filmes e Séries",FX 
+http://srvx.io:80/live/7885037935/fireurl.co/71966.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo RJ 
+http://srvx.io:80/live/7885037935/fireurl.co/72025.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/3pv" group-title="Canais | Globo",Globo SP 
+http://srvx.io:80/live/7885037935/fireurl.co/72040.ts
+#EXTINF:-1 tvg-logo="http://static.clubsrv.me/logos/canais/gloobinho.png" group-title="Canais | Infantis",Gloobinho 
+http://srvx.io:80/live/7885037935/fireurl.co/90631.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/scT" group-title="Canais | Variedades",GNT 
+http://srvx.io:80/live/7885037935/fireurl.co/72102.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/VE2" group-title="Canais | Documentários",History 
+http://srvx.io:80/live/7885037935/fireurl.co/72146.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/Zwg" group-title="Canais | Documentários",H2 
+http://srvx.io:80/live/7885037935/fireurl.co/72106.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/0qQ" group-title="Canais | HBO",HBO 2 
+http://srvx.io:80/live/7885037935/fireurl.co/72110.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/u4M" group-title="Canais | HBO",HBO Family 
+http://srvx.io:80/live/7885037935/fireurl.co/72114.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/ezc" group-title="Canais | HBO",HBO 
+http://srvx.io:80/live/7885037935/fireurl.co/72118.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/plzN5Pl.png" group-title="Canais | HBO",HBO Mundi 
+http://srvx.io:80/live/7885037935/fireurl.co/72121.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/60H" group-title="Canais | HBO",HBO Plus 
+http://srvx.io:80/live/7885037935/fireurl.co/72125.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LFACM3J.png" group-title="Canais | HBO",HBO Pop 
+http://srvx.io:80/live/7885037935/fireurl.co/72129.ts
+#EXTINF:-1 tvg-logo="http://a5.vc/2N4" group-title="Canais | HBO",HBO Signature 
+http://srvx.io:80/live/7885037935/fireurl.co/72134.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K9TvnMc.png" group-title="Canais | HBO",HBO Xtreme 
